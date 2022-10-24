@@ -5,6 +5,6 @@
 public class NOAK {
     public static void main(String[] args) {
         long j=8888;
-
+        int x=0;
     }
 }
